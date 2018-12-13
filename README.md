@@ -114,5 +114,7 @@ The features or columns in the Kaggle fake news dataset are listed below:
 
 - Applied three classification algorithms - Logistic Regression, Naive Bayes Classifier and Random Forest on the overall dataset.
 - Calculated accuracy for the above classifications and constructed a confusion matrix.
+- Ranked the articles for all the four factors using one of the LDA score, cosine similarity scores and compound sentimental score.
+- Calculated Percentage of Truth.
 
 We intend to understand the data and the process of converting data to numerical features, which in future can be fed to artificial neural networks to predict the type of news article.
